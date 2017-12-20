@@ -1,7 +1,7 @@
 baseurl = "https://practical-lamarr-610090.netlify.com/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
+title = "Bigre ! Les numériques"
 googleAnalytics = ""
 
 [params]
@@ -25,7 +25,6 @@ googleAnalytics = ""
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
-
 
 	# Navigation
 	[params.navigation]
