@@ -1,4 +1,4 @@
-baseurl = "https://practical-lamarr-610090.netlify.com/"
+baseurl = "https://lesnumeriques.netlify.com/"
 languageCode = "en-us"
 theme = "hugo-creative-theme"
 title = "Bigre ! Les numériques"
@@ -56,35 +56,35 @@ googleAnalytics = ""
 	[params.services]
 		headline = "At your service"
 
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+      [[params.services.list]]
+        icon = "fa-diamond"
+        title = "Sturdy Templates"
+        description = "Our templates are updated regularly so they don't break."
 
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+      [[params.services.list]]
+				icon = "fa-paper-plane"
+				title = "Ready to Ship"
+				description = "You can use this theme as is, or you can make changes!"
 
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+			[[params.services.list]]
+        icon = "fa-newspaper-o"
+        title = "Up to Date"
+        description = "We update dependencies to keep things fresh."
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+    	[[params.services.list]]
+        icon = "fa-heart"
+        title = "Made with Love"
+        description = "You have to make your websites with love these days!"
 
 
-    # Portfolio modals
+  # Portfolio modals
 	[params.portfolio.modal]
         client = "Client"
         date = "Date"
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
+  # Aside section
 	[params.aside]
 		headline = "Get the Creative Theme for Hugo"
 
