@@ -1,7 +1,7 @@
 baseurl = "https://lesnumeriques.netlify.com/"
 languageCode = "en-us"
 theme = "hugo-creative-theme"
-title = "Bigre ! Les numériques"
+title = "Bigre ! Les Numériques"
 googleAnalytics = ""
 
 [params]
@@ -28,7 +28,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "Bigre ! Les Numériques"
 
 		[params.navigation.links]
 			about     = "About"
